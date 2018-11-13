@@ -1,2 +1,3 @@
-# my-serverlessportfolio
-This is my serves portfolio
+# Erickson Lau's portfolio
+
+This is my professional portfolio.  It uses AWS and ReactJS.
